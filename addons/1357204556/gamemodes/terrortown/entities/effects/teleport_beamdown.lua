@@ -1,4 +1,4 @@
----
+
 -- @class EFFECT
 -- @section teleport_beamdown
 
@@ -9,7 +9,7 @@ local top = 80
 local final_height = top
 local vector_up = Vector(0, 0, 1)
 
----
+
 --@ignore
 -- @realm client
 function EFFECT:Init(data)
@@ -43,7 +43,7 @@ function EFFECT:Init(data)
     sound.Play(loopsound, self:GetPos(), 50, 100)
 end
 
----
+
 --@ignore
 -- @realm client
 function EFFECT:Think()
@@ -79,7 +79,7 @@ function EFFECT:Think()
     return true
 end
 
----
+
 --@ignore
 -- @realm client
 function EFFECT:Render()
