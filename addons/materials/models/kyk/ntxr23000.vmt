@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/kyk/ntxr23000"
+	"$bumpmap" "models/kyk/ntxr001"
+	"$halflambert" "1"
+
+	"$lightwarptexture" "models/iggy\basewarp"
+
+	"$phong" "1"
+	"$phongexponent" "1"
+	"$phongboost"	".1"
+	"$phongfresnelranges"	"[1 .1 .1]"
+	"$phongexponenttexture" "models/iggy/phong_exp"
+	"$phongalbedotint" "1"
+
+	"$rimlight" "1" 
+	"$rimlightexponent" "" 
+	"$rimlightboost" "1" 
+	"$rimmask" 1
+}

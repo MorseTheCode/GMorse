@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/freeman/face2"
+                "$selfillum" "1"
+}

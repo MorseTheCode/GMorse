@@ -1,0 +1,17 @@
+"VertexLitGeneric" {
+	$basetexture 	"models/tfa/w3/geralt_default/harness_d"
+	$color2 "[0.8 0.8 0.8]"
+	$bumpmap 		"models/tfa/w3/geralt_default/harness_n"
+	$phongexponenttexture "models/tfa/w3/geralt_default/metal_e"
+
+	$phong "1"
+	$phongboost "16"
+	$phongexponent "24"
+	$phongfresnelranges "[0.5 0.75 1.0]"
+	$phongalbedotint "1"
+
+	$envmap "env_cubemap"
+	$envmapfresnel "1"
+	$envmaptint "[0.1 0.1 0.1]"
+	$normalmapalphaenvmapmask "1"
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/cj/jeans"
+	"$bumpmap" "models/player/cj/jeans_n"
+}

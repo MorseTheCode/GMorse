@@ -1,0 +1,18 @@
+"Vertexlitgeneric"
+{
+                "$basetexture"                  "models\player\crash bandicoot\crash_body"
+	"$bumpmap"     "models\player\crash bandicoot\normal"
+
+
+	"$phong" "1"
+	"$phongexponent" "50"
+	"$phongboost" ".1"	
+	"$lightwarptexture" "models\player\crash bandicoot\crash_lightwarp"
+	"$phongfresnelranges"	"[.3 1 8]"
+	"$halflambert" "0"
+
+	"$rimlight" "1"												
+	"$rimlightexponent" "4"											
+	"$rimlightboost" "2"	
+
+}

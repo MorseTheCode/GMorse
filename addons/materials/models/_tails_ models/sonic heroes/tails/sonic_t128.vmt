@@ -1,0 +1,24 @@
+"VertexLitGeneric"
+{
+	"$basetexture"			 "models/_TailS_ Models/Sonic Heroes/Sonic/sonic_t128"
+	
+	"$phong"			     "1"
+
+	"$bumpmap"		         "models/_TailS_ Models/phong"
+	"$phongexponent"		 "5"		
+	"$phongexponenttexture"	 "models/_TailS_ Models/exponent"	
+	"$phongboost"		     "0.1"
+	"$phongfresnelranges"	 "[0 0.5 1]"
+
+	"$rimlight"              "1"
+	"$rimlightexponent"      "2"
+	"$rimlightboost"         ".2"
+	
+	"$envmap" "Environment Maps/rg"
+	"$envmapmask" "concrete/concretefloor037a_mask"
+	"$envmaptint"				"[0.002 0.002 0.002]"
+    "$normalmapalphaenvmapmask" "1"
+	"$fresnelreflection" "1"
+	"$surfaceprop" "concrete"
+	"%keywords" "c17downtown"
+}

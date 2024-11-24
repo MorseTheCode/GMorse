@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	$basetexture "models/kuma96/2b/skin_d"
+	$bumpmap "models/kuma96/2b/skin_ns"
+	
+	$halflambert 1
+}

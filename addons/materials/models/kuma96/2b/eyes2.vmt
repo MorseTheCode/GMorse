@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	$basetexture "models/kuma96/2b/skin_d"
+	$translucent 1
+}

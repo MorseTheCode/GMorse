@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture"			  "models/_TailS_ Models/Player/Tails/mouth"
+	"$bumpmap"				  "models/_TailS_ Models/phong"
+
+	"$phong"				  "1"
+	"$phongalbedotint"		  "1"
+	"$phongexponenttexture"   "models/_TailS_ Models/exponent"
+	"$phongexponent"		  "21"
+	"$phongboost"			  "2.1"
+	"$phongfresnelranges"	  "[.1 2 20]"
+
+	"$rimlight"				  "1"
+	"$rimlightexponent"		  "2"
+	"$rimlightboost"		  "3"
+}

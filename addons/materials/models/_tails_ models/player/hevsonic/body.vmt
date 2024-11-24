@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture"			  "models/_TailS_ Models/Player/HEVSonic/body"
+	"$bumpmap"		          "models/_TailS_ Models/Player/HEVSonic/body_nrm"
+
+	"$phong"			      "1"
+	"$phongalbedotint"		  "1"
+
+	"$phongexponent"		  "21"
+	"$phongexponenttexture"   "models/_TailS_ Models/exponent"
+	"$phongboost"		      "1.1"
+	"$phongfresnelranges"	  "[.1 .5 20]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "2"
+	"$rimlightboost"          ".2"
+}

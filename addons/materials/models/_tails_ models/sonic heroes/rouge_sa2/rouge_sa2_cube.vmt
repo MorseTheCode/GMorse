@@ -1,0 +1,24 @@
+"VertexLitGeneric"
+{
+	"$basetexture"           "models/_TailS_ Models/Sonic Heroes/Other/pohn_vt"
+	
+	"$phong"			     "1"
+
+	"$bumpmap"		         "models/_TailS_ Models/Sonic Heroes/Rouge_SA2/rouge_sa2_cube_bump"
+	"$phongexponent"		 "5"		
+	"$phongexponenttexture"	 "models/_TailS_ Models/exponent"	
+	"$phongboost"		     "0.1"
+	"$phongfresnelranges"	 "[0 0.5 1]"
+
+	"$rimlight"              "1"
+	"$rimlightexponent"      "2"
+	"$rimlightboost"         ".2"
+	
+	"$envmap" "env_cubemap"
+	"$envmapmask" "concrete/concretefloor037a_mask"
+	"$envmaptint"				"[0.10 0.10 0.10]"
+    "$normalmapalphaenvmapmask" "1"
+	"$envmapcontrast" 1
+	"$model" 1
+	"$selfillum" 1
+}

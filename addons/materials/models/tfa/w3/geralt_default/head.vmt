@@ -1,0 +1,10 @@
+"VertexLitGeneric" {
+	$basetexture 	"models/tfa/w3/geralt_default/head_d"
+	$color2 "[1.5 1.3 1.1]"
+	$bumpmap 		"models/tfa/w3/geralt_default/head_n"
+
+	$phong "1"
+	$phongboost "16"
+	$phongexponent "6"
+	$phongfresnelranges "[0.04 0.1 1.0]"
+}

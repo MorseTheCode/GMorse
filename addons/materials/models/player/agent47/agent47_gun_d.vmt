@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/agent47/agent47_gun_d"
+	"$bumpmap" "models/player/agent47/agent47_gun_n"
+
+	"$phong" 1
+	"$phongexponent" 15
+	"$phongboost" 1
+	"$phongfresnelranges" "[0.5 5 10]"
+}

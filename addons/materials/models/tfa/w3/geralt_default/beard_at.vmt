@@ -1,0 +1,15 @@
+"VertexLitGeneric" {
+	$basetexture 	"models/tfa/w3/geralt_default/beard_d"
+	$color2 "[0.9 0.9 0.9]"
+	$bumpmap 		"models/tfa/w3/geralt_default/beard_n"
+
+	$phong "1"
+	$phongboost "4"
+	$phongexponent "5"
+	$phongfresnelranges "[0.04 0.1 1.0]"
+
+	$alphatest "1"
+	$alphatestreference "0.95"
+
+	$nocull "1"
+}

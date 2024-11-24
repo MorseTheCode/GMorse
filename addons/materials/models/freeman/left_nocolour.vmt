@@ -1,0 +1,22 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/freeman/lefttex"
+	"$bumpmap" "models/freeman/leftshark_DummyNorm"
+                  "$phongexponenttexture" "models/freeman/leftshark_DummyNorm"
+	"$halflambert" "0"
+	"$phong" "1"
+	"$phongboost" "0.1"
+	"$phongexponent" "3"
+	"$phongtint" "[0 0 0]"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges" "[2.0 0.5 0.05]"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "3"
+	"$rimlightboost" "0.1"
+
+	"$ambientocclusion" "1"
+	"$diffuseexp" "1"
+
+
+}

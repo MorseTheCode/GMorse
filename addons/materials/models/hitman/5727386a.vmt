@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/hitman/5727386a"
+	"$bumpmap" "models\hitman\5727386a_n"
+	"$model" "1"
+	"$halflambert" "1"
+}

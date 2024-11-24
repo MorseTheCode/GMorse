@@ -1,0 +1,8 @@
+"terrortown"
+{
+	"base"		"base"
+	"title"		"Trouble in Terrorist Town 2"
+	"maps"		"^ttt_"
+	"category"	"pvp"
+	"menusystem"	"1"
+}
