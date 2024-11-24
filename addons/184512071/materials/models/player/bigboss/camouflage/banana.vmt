@@ -1,6 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/player/bigboss/camouflage/banana"
-	"$bumpmap" "models/player/bigboss/norm_null"
-	"$halflambert" 1
-}

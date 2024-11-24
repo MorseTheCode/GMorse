@@ -1,5 +1,0 @@
-"Vertexlitgeneric"
-{
- 	"$basetexture"                  "models\player\crash bandicoot\crash_eyes"
-	"$lightwarptexture" "models\player\crash bandicoot\crash_lightwarp"
-}

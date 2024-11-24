@@ -1,9 +1,0 @@
-"vertexlitGeneric"
-{
-	"$basetexture" "models/code_gs/buzz/buzzlightyear 00001"
-	"$bumpmap" "models/code_gs/buzz/buzzlightyear 00001_n"
-	"$normalmapalphaenvmapmask" "1"
-	"$envmapcontrast" 0.3
-	"$envmapsaturation" 0.7
-	"$envmaptint" "[ 0.36 0.36 0.36 ]"
-}

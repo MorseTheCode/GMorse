@@ -1,7 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/player/davyjones/davyjones_body2"
-	"$bumpmap" "models/player/davyjones/davyjones_body2_n"
-	"$alphatest" 1
-	"$nocull" 1
-}

@@ -1,9 +1,0 @@
-"VertexlitGeneric"
-{
-	$basetexture "models/kuma96/2b/feathers_d"
-	$bumpmap "models/kuma96/2b/feathers_n"
-	
-	$alphatest 1
-	$allowalphatocoverage 1
-	$nocull 1
-}

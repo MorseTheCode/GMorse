@@ -1,6 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/player/woody/woody"
-	"$alphatest" 1
-	"$nocull" 1
-}

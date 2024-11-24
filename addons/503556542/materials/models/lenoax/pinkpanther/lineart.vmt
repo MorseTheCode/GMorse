@@ -1,6 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/lenoax/pinkpanther/panther_diff"
-	"$lightwarptexture" "models\lenoax\pinkpanther/lineart_wrp"
-	"$translucent" 1
-}

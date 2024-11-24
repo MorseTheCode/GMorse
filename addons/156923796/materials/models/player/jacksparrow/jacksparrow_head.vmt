@@ -1,6 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/player/jacksparrow/jacksparrow_head"
-	"$alphatest" 1
-	"$nocull" 1
-}
