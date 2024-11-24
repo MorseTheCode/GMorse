@@ -1,11 +1,11 @@
----
+
 -- @class EFFECT
 -- @section crimescene_shot
 
 local shot_mat = Material("cable/blue_elec")
 --local clr = Color(0, 0, 100, 255)
 
----
+
 --@ignore
 -- @realm client
 function EFFECT:Init(data)
@@ -29,7 +29,7 @@ function EFFECT:Init(data)
     self.WidthMax = 5
 end
 
----
+
 --@ignore
 -- @realm client
 function EFFECT:Think()
@@ -46,7 +46,7 @@ function EFFECT:Think()
     return true
 end
 
----
+
 --@ignore
 -- @realm client
 function EFFECT:Render()
