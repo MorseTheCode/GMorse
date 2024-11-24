@@ -1,6 +1,0 @@
-"Eyes"
-{
-	"$basetexture"   "models/_TailS_ Models/Player/Tails/chr_tails_eye_white"
-	"$iris"          "models/_TailS_ Models/Sonic Heroes/Tails/pupil_l"
-	"$halflambert"   "1"
-}

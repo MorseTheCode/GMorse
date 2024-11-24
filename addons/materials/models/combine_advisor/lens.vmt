@@ -1,6 +1,0 @@
-// envmaptint_fix
-"VertexLitGeneric"
-{
-	"$baseTexture" "Models/Combine_Advisor/lens"
-	"$selfillum" 1
-}

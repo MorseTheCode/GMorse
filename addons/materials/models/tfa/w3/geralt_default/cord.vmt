@@ -1,9 +1,0 @@
-"VertexLitGeneric" {
-	$basetexture 	"models/tfa/w3/geralt_default/cordel_d"
-	$bumpmap 		"models/tfa/w3/geralt_default/cordel_n"
-
-	$phong "1"
-	$phongboost "8"
-	$phongexponent "4"
-	$phongfresnelranges "[0.04 0.1 1.0]"
-}

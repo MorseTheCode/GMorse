@@ -1,6 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/player/slycooper/sly_eye"
-	"$bumpmap" "models/player/slycooper/sly_eye_n"
-	"$halflambert" 1
-}

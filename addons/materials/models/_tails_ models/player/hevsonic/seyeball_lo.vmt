@@ -1,7 +1,0 @@
-"eyes"
-{
-	"$basetexture" "models/_TailS_ Models/Player/Sonic/eyeball"
-	"$iris" "models/_TailS_ Models/Player/Sonic/soriginalpupil"
-	"$halflambert" 1
-	
-}

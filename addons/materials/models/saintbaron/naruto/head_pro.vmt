@@ -1,7 +1,0 @@
-"vertexlitgeneric"
-{
-	"$baseTexture" "models/saintbaron/naruto/head_pro"
-                "$bumpmap" "models/saintbaron/naruto/head_pro_normal"
-	"$nocull" "1"
-	"$normalmapalphaenvmapmask" 1
-}

@@ -1,7 +1,6 @@
 "VertexLitGeneric"
 {
-	// Original shader: VertexLitSelfIlluminatedTexture
+	// Original shader: VertexLitTexture
 	"$basetexture" "Models/props_c17/industrialbellbottomoff01"
-//	"$selfillum" 1
+	"$surfaceprop" "metal"
 }
-

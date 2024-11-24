@@ -1,9 +1,0 @@
-"VertexLitGeneric"
-{
-
-	"$basetexture" "Models/props_combine/citadeldestroyed_cable"
-	"$surfaceprop" "metal"
-	"%keywords" "combine"
-	"$nofog" "1"
-	"$model" "1"
-}

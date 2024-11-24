@@ -1,9 +1,10 @@
 "WorldVertexTransition"
 {
-	"$basetexture" "nature/gravelfloor002a"
-	"$basetexture2" "nature/forest_grass_01"
+	"$basetexture" "nature/dirtfloor006a"
+	"$basetexture2" "nature/gravelfloor004a"
+	"%tooltexture" "nature/blendgrassgravel001a_tooltexture"
+	"%detailtype" "compound_gravelgrass"
+	"%keywords" "wasteland"
 	"$surfaceprop" "dirt"
-	"$blendmodulatetexture" "nature/blendtexture01"
-	"%detailtype" "forest_floor_01"
-
+	"$surfaceprop2" "dirt"
 }
