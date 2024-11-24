@@ -1,11 +1,11 @@
----
+
 -- @class EFFECT
 -- @section pulse_sphere
 
 local model_orb = Model("models/Combine_Helicopter/helicopter_bomb01.mdl")
 local mat_orb = Material("models/effects/splodearc_sheet")
 
----
+
 --@ignore
 -- @realm client
 function EFFECT:Init(data)
@@ -33,7 +33,7 @@ function EFFECT:Init(data)
     self.EndScale = self.Radius / r
 end
 
----
+
 --@ignore
 -- @realm client
 function EFFECT:Think()
@@ -57,7 +57,7 @@ function EFFECT:Think()
     return IsValid(self.Orb)
 end
 
----
+
 --@ignore
 -- @realm client
 function EFFECT:Render()
