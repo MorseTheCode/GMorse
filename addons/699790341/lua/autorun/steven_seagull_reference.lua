@@ -1,0 +1,2 @@
+player_manager.AddValidModel( "steven_seagull", "models/aap15/foldername/steven_seagull_reference/steven_seagull_reference.mdl" );
+list.Set( "PlayerOptionsModel", "steven_seagull", "models/aap15/foldername/steven_seagull_reference/steven_seagull_reference.mdl" );

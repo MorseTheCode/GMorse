@@ -1,0 +1,1 @@
+player_manager.AddValidModel( "Arkham Origins Joker", "models/player/bobert/AOJoker.mdl" ) list.Set( "PlayerOptionsModel",  "Arkham Origins Joker",                     "models/player/bobert/AOJoker.mdl" ) 

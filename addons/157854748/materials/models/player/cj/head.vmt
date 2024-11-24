@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/cj/head"
+	"$bumpmap" "models/player/cj/head_n"
+}

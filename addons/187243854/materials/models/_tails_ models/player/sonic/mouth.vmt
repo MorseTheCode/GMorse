@@ -1,0 +1,7 @@
+"Teeth"
+{
+	"$basetexture" "models/_TailS_ Models/Player/Sonic/mouth"
+	"$model" 1
+	"$clientshader" "MouthShader"
+	"$halflambert" 1
+}

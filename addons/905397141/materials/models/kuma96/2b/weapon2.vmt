@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	$basetexture "models/kuma96/2b/weapon2_d"
+	$bumpmap "models/kuma96/2b/weapon2_ns"
+	$color2 "[.8 .8 .8]"
+	
+	$envmap env_cubemap
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[.2 .2 .2]"
+	
+	$phong 1
+	$phongexponent 50
+	$phongboost 25
+	$phongfresnelranges "[0.05 0.5 1.0]"
+}

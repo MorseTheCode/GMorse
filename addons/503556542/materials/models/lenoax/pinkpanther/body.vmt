@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\lenoax\pinkpanther/panther_diff"
+//	"$lightwarptexture" "models\lenoax\pinkpanther/tf2_wrp"
+
+"$phong" "1"
+"$phongexponent" "40"
+"$phongboost" "0.01"
+"$phongfresnelranges" "[.05 .5 5]"
+}

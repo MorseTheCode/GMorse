@@ -1,0 +1,9 @@
+"VertexLitGeneric" {
+	$basetexture 	"models/tfa/w3/geralt_default/eyes_d"
+	$bumpmap 		"models/tfa/w3/geralt_default/eyes_n"
+
+	$phong "1"
+	$phongboost "32"
+	$phongexponent "256"
+	$phongfresnelranges "[0.05 0.1 1.0]"
+}

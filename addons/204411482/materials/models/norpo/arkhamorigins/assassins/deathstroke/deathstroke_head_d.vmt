@@ -1,0 +1,25 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 				"models\norpo\ArkhamOrigins\Assassins\Deathstroke\DeathStroke_Head_D"
+	"$bumpmap" 					"models\norpo\ArkhamOrigins\Assassins\Deathstroke\DeathStroke_Head_N"
+$halflambert 1
+$phong 1
+$phongexponenttexture "models\norpo\ArkhamOrigins\Assassins\Deathstroke\DeathStroke_Head_D"
+
+"$phongexponent" "1.75"
+
+	
+$phongboost .50
+//$phongtint "[1 1 1]"
+$phongfresnelranges "[.1 .1 .1]"
+$nodecal 1
+$ambientocclusion 1
+
+
+// Rim lighting parameters
+	"$rimlight" "1"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" "10"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" "1"										// Boost for ambient cube component of rim lighting
+
+
+}

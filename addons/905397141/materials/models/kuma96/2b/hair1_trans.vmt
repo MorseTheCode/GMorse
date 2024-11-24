@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	$basetexture "models/kuma96/2b/feathers_d"
+	$bumpmap "models/kuma96/2b/feathers_n"
+	
+	$alphatest 1
+	$nocull 1
+	
+	$halflambert 1
+}

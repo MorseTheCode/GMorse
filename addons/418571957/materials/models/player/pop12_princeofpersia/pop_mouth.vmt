@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/POP12_PrinceOfPersia/pop_mouth"
+	"$bumpmap" "models/player/POP12_PrinceOfPersia/pop_mouth_normal"
+}

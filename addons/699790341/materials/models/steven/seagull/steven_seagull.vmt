@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/steven/seagull/steven_seagull"
+	"$normalmap" "models/steven/seagull/steven_seagull_normal"
+}

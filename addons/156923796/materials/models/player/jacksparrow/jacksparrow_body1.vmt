@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/jacksparrow/jacksparrow_body1"
+	"$bumpmap" "models/player/jacksparrow/jacksparrow_body1_n"
+	"$alphatest" 1
+	"$nocull" 1
+}

@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 				"models\norpo\ArkhamOrigins\Assassins\Deathstroke\DeathStroke_Hair_D"
+	"$bumpmap" 					"models\norpo\ArkhamOrigins\Assassins\Deathstroke\DeathStroke_Hair_N"
+$halflambert 1
+$translucent 1
+}

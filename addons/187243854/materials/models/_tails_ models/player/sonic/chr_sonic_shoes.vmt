@@ -1,0 +1,23 @@
+"VertexLitGeneric"
+{
+	"$basetexture"			"models/_TailS_ Models/Player/Sonic/body"
+	"$bumpmap"				"models/_TailS_ Models/Player/Sonic/body_nrm"
+    
+    "$envmap"					"models/_TailS_ Models/cubemap_gold001.hdr"
+	"$normalmapalphaenvmapmask" "1"
+    "$envmaptint"				"[0.50 0.50 0.50]"
+    "$envmapcontrast"           "1"
+
+	"$phong"				"1"
+	"$phongalbedotint"		"1"
+	"$phongexponenttexture"	"models/_TailS_ Models/exponent"
+	"$phongexponent"		"21"
+	"$phongboost"			"2.1"
+	"$phongfresnelranges"	"[0 0.5 1]"
+
+	"$rimlight"				"0"
+	"$rimlightexponent"		"2"
+	"$rimlightboost"		".2"
+	
+	
+}

@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+ 	"$basetexture" "models/_TailS_ Models/Sonic Heroes/Other/env_wpt"
+
+//	"$envmap" "env_cubemap"
+//	"$envmap" "env_cubemap"
+	"$envmap" "Environment Maps/rg"
+//	"$envmapmask" "concrete/concretefloor037a_mask"
+//	"$basealphaenvmapmask" "1"
+	"$fresnelreflection" "1"
+//	"$surfaceprop" "concrete"
+//	"%keywords" "c17downtown"
+    "$envmaptint"				"[0.01 0.01 0.01]"
+}

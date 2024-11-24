@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	$basetexture "models/tfa/overwatch/mercy/body_d"
+	$bumpmap "models/tfa/overwatch/mercy/body_n"
+	$phongexponenttexture "models/tfa/overwatch/mercy/body_e"
+	$lightwarptexture "models/tfa/overwatch/mercy/skin_warp"
+	
+	$phong "1"
+	$phongexponent "8"
+	$phongboost "1"
+	$phongfresnelranges "[0.1 0.55 1.00]"
+	$phongalbedotint "0"
+	
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask "1"
+	$envmapfresnel "1"
+	$envmaptint "[0.025 0.025 0.025]"
+	
+	$nocull "1"
+}

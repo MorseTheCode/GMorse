@@ -1,0 +1,9 @@
+"VertexLitGeneric" {
+	$basetexture 	"models/tfa/w3/geralt_default/pant1_d"
+	$bumpmap 		"models/tfa/w3/geralt_default/pant1_n"
+
+	$phong "1"
+	$phongboost "12"
+	$phongexponent "6"
+	$phongfresnelranges "[0.04 0.1 1.0]"
+}

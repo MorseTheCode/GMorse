@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/lskovfoged/dmc4/dante/slow_eyes"
+
+	"$translucent" 1
+	"$nocull" 1
+}

@@ -1,0 +1,5 @@
+"Eyes"
+{
+	"$basetexture"        "models\mkx/jason/eyeball"
+	"$Iris"               "models\mkx/jason/pupil"
+}

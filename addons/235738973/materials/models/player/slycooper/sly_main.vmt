@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/slycooper/sly_main"
+	"$bumpmap" "models/player/slycooper/sly_main_n"
+	"$AmbientOcclTexture" "models/player/slycooper/sly_main_ao"
+	"$normalmapalphaenvmapmask" 1
+	"$halflambert" 1
+}
+
+
