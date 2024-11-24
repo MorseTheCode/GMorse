@@ -1,10 +1,10 @@
----
+
 -- @class EFFECT
 -- @section crimescene_dummy
 
 local backup_mdl = Model("models/player/phoenix.mdl")
 
----
+
 --@ignore
 -- @realm client
 function EFFECT:Init(data)
@@ -56,7 +56,7 @@ function EFFECT:Init(data)
     end
 end
 
----
+
 --@ignore
 -- @realm client
 function EFFECT:Think()
@@ -74,7 +74,7 @@ function EFFECT:Think()
     return IsValid(self.Dummy)
 end
 
----
+
 --@ignore
 -- @realm client
 function EFFECT:Render()
