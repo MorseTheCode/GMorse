@@ -1,0 +1,2 @@
+player_manager.AddValidModel( "Arkham City Harley",                     "models/player/bobert/AkmHarley.mdl" )  list.Set( "PlayerOptionsModel",  "Arkham City Harley",                     "models/player/bobert/AkmHarley.mdl" )
+player_manager.AddValidHands( "Arkham City Harley", "models/weapons/AkmHarley/AkmHarley_arms.mdl", 0, "00000000" )  
