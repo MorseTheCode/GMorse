@@ -1,2 +1,0 @@
-player_manager.AddValidModel( "Arkham Origins Batman",                     "models/player/bobert/AOBM.mdl" )  list.Set( "PlayerOptionsModel",  "Arkham Origins Batman",                     "models/player/bobert/AOBM.mdl" )
-player_manager.AddValidHands( "Arkham Origins Batman", "models/weapons/AOBM/AOBM_arms.mdl", 0, "00000000" )  
