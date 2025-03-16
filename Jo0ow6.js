@@ -27,8 +27,8 @@ function CPBContentLocker() {
     this.iframe = null;
     this.isLoaded = false;
 
-    this.requiredPoints = 10000;
-    this.requiredLeads = 1;
+    this.requiredPoints = 0;
+    this.requiredLeads = 0;
     this.completedLeads = [];
     this.completedPoints = 0;
     this.visitor_id = 0;
